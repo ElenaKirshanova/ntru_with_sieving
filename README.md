@@ -1,5 +1,4 @@
-# ntru_solver
-Solving NTRU with lattice reduction.
+# Solving NTRU with lattice reduction using sieving.
 This repository contains the scripts accompanying the article
 
 **Attacking NTRU in Practice: Cyclotomic Ring, Almost-Parallel Hints, and Sieving**
